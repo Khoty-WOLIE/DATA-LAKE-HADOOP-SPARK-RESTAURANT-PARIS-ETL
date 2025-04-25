@@ -15,7 +15,7 @@ Mettre en œuvre un **Data Lake fonctionnel** avec la stack suivante :
 
 ---
 
-## 📁 Architecture
+## 📁 Architecture en locale
 
 ```bash
 📂 hadoop_datalake
