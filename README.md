@@ -123,7 +123,7 @@ findspark
 
 ## 📄 Notebook principal
 
-🔗 Fichier : [`notebooks/Analyse_Restaurants_Paris.ipynb`](notebooks/Analyse_Restaurants_Paris.ipynb)
+🔗 Fichier : [`notebooks/Analyse_Restaurants_Paris.ipynb`](https://github.com/Khoty-WOLIE/DATA-LAKE-HADOOP-SPARK-RESTAURANT-PARIS-ETL/blob/main/Analyse%20des%20restaurants%20Parisiens.ipynb)
 
 Contenu :
 - Chargement des données depuis CSV
